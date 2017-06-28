@@ -1,0 +1,71 @@
+h1{
+color: blue;
+font-family: 'Philosopher', sans-serif;
+
+}
+html{
+	background: grey;
+}
+.lista{
+	border-bottom:1px solid grey;
+}
+h3{
+	text-transform: capitalize;
+	font-family: 'Archivo Narrow', sans-serif;
+	color:#1f5f60;
+	border-bottom: 5px solid #1f5f60;
+	front-size:5px;
+}
+img{
+	height: 300;
+	width: 370px;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+
+#lodeabajodelaimagen{
+	margin-left: 25px;
+    height: 250px;
+	width: 400px;    
+	float: left;   
+	width: 30%;
+	font-size: 30px
+	}
+
+.yo {
+	margin: 20px;
+	padding: 20px;
+	background: rgba(255,255,255,0.6);
+
+}
+#yos{
+
+    margin-right: 30px;
+    height: 250px;
+	width: 60%;    
+	float: right;
+
+	}
+#pepe{
+
+     margin: 0px;
+}
+.Pórtfolio{
+	margin: 20px;
+	padding: 20px;
+	background: red;
+}
+li{
+	list-style: none;
+	margin-bottom: 2px;
+    margin-left: 10px;
+    margin-right: 20px;
+
+}
+ul{
+	padding-left: 0px;
+}
+a:hover{
+	background-color: black ;
+	color:white; 
+}

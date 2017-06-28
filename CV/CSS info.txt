@@ -1,0 +1,9 @@
+h1{               h1{
+  padding:13x       padding-top, padding-right , padding-left, padding-bottom .
+}
+
+border, border-rihgt, boder-top, border-bottom, border-left
+
+margin, margin-right, margin-top, margin-bottom, margin-left
+
+ul li, ol li
